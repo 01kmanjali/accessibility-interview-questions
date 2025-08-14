@@ -9,7 +9,7 @@
 <details open>
   <summary>Show Table of Contents</summary>
 
-  | #  | Questions                                                                                                                                                                                                                                                                               |
+  | No.  | Questions                                                                                                                                                                                                                                                                               |
   | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | 1  | [Who benefits from accessibility?](#1-who-benefits-from-accessibility)                                                                                                                                                                                                                  |
   | 2  | [How would you define inclusive and/or universal design?](#2-how-would-you-define-inclusive-andor-universal-design)                                                                                                                                                                     |
@@ -65,7 +65,7 @@
 <details open>
   <summary>Show Table of Contents</summary>
 
-  | # | Question                                                                                                                            |
+  | No. | Question                                                                                                                            |
   | - | ----------------------------------------------------------------------------------------------------------------------------------- |
   | 1 | [Pros and Cons of Flat vs Skeuomorphic Design for Accessibility](#1-pros-and-cons-of-flat-vs-skeuomorphic-design-for-accessibility) |
   | 2 | [Importance of Color Contrast in Inclusive Design](#2-importance-of-color-contrast-in-inclusive-design)                             |
